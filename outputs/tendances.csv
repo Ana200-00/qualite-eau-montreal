@@ -1,0 +1,22 @@
+groupe,parametre,stations,mediane_2004,mediane_2011,changement_pct,p,pct_stations_en_hausse,p_temps_sec,sens_temps_sec,verdict,passe_seuil_corrige
+toutes,coli,30,30.5,21.5,-29.5,0.011716999582673873,30,0.7956446370839365,1.0,aucune différence détectable,False
+toutes,ptot,30,17.5,16.0,-8.6,0.0007843020360281348,13,0.03127145855406272,-1.0,différence réelle mais minime,True
+toutes,ph,30,8.28,8.3,0.3,0.3775579433188482,40,1.1280617434869058e-05,-1.0,aucune différence détectable,False
+toutes,o2,30,9.54,9.25,-3.1,0.005844574590061473,33,3.6080359417407905e-05,1.0,aucune différence détectable,False
+toutes,cond,30,195.5,248.0,26.9,3.10031428844173e-05,97,8.68307120713652e-06,1.0,différence nette,True
+toutes,temp,30,19.65,17.45,-11.2,1.6986964471794946e-06,0,0.0010503888226914744,-1.0,différence nette,True
+toutes,mes,30,2.15,3.4,58.1,1.7224282827430737e-06,100,5.698153867118997e-08,1.0,différence nette,True
+FSL,coli,15,48.0,25.0,-47.9,0.0006533107814151373,0,0.01126050348821696,-1.0,différence nette,True
+FSL,ptot,15,14.5,13.0,-10.3,0.00440943370423917,7,8.277138631121291e-07,-1.0,aucune différence détectable,False
+FSL,ph,15,8.3,8.4,1.2,0.059421881534644845,67,2.3249372499038492e-05,-1.0,aucune différence détectable,False
+FSL,o2,15,9.66,9.0,-6.8,0.0008033132570914438,7,0.5770435657299426,1.0,différence réelle mais minime,True
+FSL,cond,15,213.5,285.0,33.5,0.0006451158437926243,100,9.607564094672171e-05,1.0,différence nette,True
+FSL,temp,15,19.65,19.0,-3.3,0.0006099006719140635,0,0.8304864471733863,-1.0,différence réelle mais minime,True
+FSL,mes,15,2.1,2.8,33.3,6.103515625e-05,100,5.078457239081202e-05,1.0,différence nette,True
+LSL,coli,15,16.0,18.0,12.5,0.3196692802025596,60,0.00939995221020916,1.0,aucune différence détectable,False
+LSL,ptot,15,21.5,20.0,-7.0,0.06305742216608684,20,0.0014763511625104954,1.0,aucune différence détectable,False
+LSL,ph,15,8.15,8.1,-0.6,0.020009479687712824,13,0.00014701400060227336,-1.0,aucune différence détectable,False
+LSL,o2,15,9.41,9.6,2.0,0.42120361328125,60,8.715450518016212e-09,1.0,aucune différence détectable,False
+LSL,cond,15,110.0,144.0,30.9,0.010562188279913585,93,0.2003216543037315,1.0,aucune différence détectable,False
+LSL,temp,15,19.6,15.3,-21.9,0.0006467491225764763,0,8.422901809595984e-09,-1.0,différence nette,True
+LSL,mes,15,2.25,3.9,73.3,0.0006467491225764763,100,1.4255827777692324e-08,1.0,différence nette,True

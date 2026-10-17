@@ -1,0 +1,25 @@
+region,annee,stations,mesures_region,critere,mesures_evaluables,pct_depassement,ic95_bas,ic95_haut,verdict_H1
+BLAP,2004,4,15,Coliformes > 200 UFC/100 mL (contact direct),15,13.3,3.7,37.9,indéterminé
+BLAP,2004,4,15,Coliformes > 1000 UFC/100 mL (contact indirect),15,0.0,0.0,20.4,indéterminé
+BLAP,2004,4,15,Phosphore total > 30 µg/L,15,6.7,1.2,29.8,indéterminé
+BLAP,2004,4,15,pH hors de 6.5 à 9.0,15,26.7,10.9,52.0,H1 rejetée
+FSL,2004,16,61,Coliformes > 200 UFC/100 mL (contact direct),61,26.2,16.8,38.4,H1 rejetée
+FSL,2004,16,61,Coliformes > 1000 UFC/100 mL (contact indirect),61,8.2,3.6,17.8,indéterminé
+FSL,2004,16,61,Phosphore total > 30 µg/L,61,0.0,0.0,5.9,indéterminé
+FSL,2004,16,61,pH hors de 6.5 à 9.0,61,0.0,0.0,5.9,indéterminé
+FSL,2011,18,123,Coliformes > 200 UFC/100 mL (contact direct),123,13.8,8.8,21.0,H1 rejetée
+FSL,2011,18,123,Coliformes > 1000 UFC/100 mL (contact indirect),123,2.4,0.8,6.9,indéterminé
+FSL,2011,18,123,Phosphore total > 30 µg/L,123,2.4,0.8,6.9,indéterminé
+FSL,2011,18,123,pH hors de 6.5 à 9.0,123,0.0,0.0,3.0,H1 soutenue
+LSL,2004,15,60,Coliformes > 200 UFC/100 mL (contact direct),60,0.0,0.0,6.0,indéterminé
+LSL,2004,15,60,Coliformes > 1000 UFC/100 mL (contact indirect),60,0.0,0.0,6.0,indéterminé
+LSL,2004,15,60,Phosphore total > 30 µg/L,60,16.7,9.3,28.0,H1 rejetée
+LSL,2004,15,60,pH hors de 6.5 à 9.0,60,0.0,0.0,6.0,indéterminé
+LSL,2011,16,112,Coliformes > 200 UFC/100 mL (contact direct),112,15.2,9.7,23.0,H1 rejetée
+LSL,2011,16,112,Coliformes > 1000 UFC/100 mL (contact indirect),112,2.7,0.9,7.6,indéterminé
+LSL,2011,16,112,Phosphore total > 30 µg/L,112,17.9,11.9,26.0,H1 rejetée
+LSL,2011,16,112,pH hors de 6.5 à 9.0,112,0.0,0.0,3.3,H1 soutenue
+RDP,2012,34,224,Coliformes > 200 UFC/100 mL (contact direct),223,28.3,22.7,34.5,H1 rejetée
+RDP,2012,34,224,Coliformes > 1000 UFC/100 mL (contact indirect),223,1.8,0.7,4.5,H1 soutenue
+RDP,2012,34,224,Phosphore total > 30 µg/L,223,39.0,32.8,45.5,H1 rejetée
+RDP,2012,34,224,pH hors de 6.5 à 9.0,224,3.1,1.5,6.3,indéterminé

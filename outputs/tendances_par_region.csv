@@ -1,0 +1,8 @@
+parametre,FSL,LSL,meme_sens,significatif_dans
+coli,-47.9,12.5,False,FSL
+cond,33.5,30.9,True,FSL
+mes,33.3,73.3,True,"FSL, LSL"
+o2,-6.8,2.0,False,FSL
+ph,1.2,-0.6,False,aucune
+ptot,-10.3,-7.0,True,aucune
+temp,-3.3,-21.9,True,"FSL, LSL"

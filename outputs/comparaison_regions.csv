@@ -1,0 +1,9 @@
+annee,region_1,region_2,critere,pct_1,pct_2,p,seuil_corrige,difference_nette
+2004,BLAP,FSL,Coliformes > 200 UFC/100 mL (contact direct),13.3,26.2,0.49855415414861226,0.00625,False
+2004,BLAP,FSL,Phosphore total > 30 µg/L,6.7,0.0,0.19736842105263158,0.00625,False
+2004,BLAP,LSL,Coliformes > 200 UFC/100 mL (contact direct),13.3,0.0,0.03783783783783783,0.00625,False
+2004,BLAP,LSL,Phosphore total > 30 µg/L,6.7,16.7,0.4454317434094115,0.00625,False
+2004,FSL,LSL,Coliformes > 200 UFC/100 mL (contact direct),26.2,0.0,9.850872529769406e-06,0.00625,True
+2004,FSL,LSL,Phosphore total > 30 µg/L,0.0,16.7,0.0005958835316280487,0.00625,True
+2011,FSL,LSL,Coliformes > 200 UFC/100 mL (contact direct),13.8,15.2,0.8533393778615689,0.00625,False
+2011,FSL,LSL,Phosphore total > 30 µg/L,2.4,17.9,8.899992428806557e-05,0.00625,True
